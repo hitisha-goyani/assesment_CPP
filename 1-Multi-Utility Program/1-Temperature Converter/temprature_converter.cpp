@@ -9,10 +9,10 @@ int main(){
     cout<<"enter the temprature in celsius:";
     cin>>c;
 
-    f = (9/5 * c) + 32;
+    f = (9.0/5.0 * c) + 32;
 
    cout << "The temperature in Celsius    : " << c << endl;
-    cout << "The temperature in Fahrenheit : " << f<< endl;
+    cout << "The temperature in Fahrenheit : " << f << endl;
 
     return 0;
 }
