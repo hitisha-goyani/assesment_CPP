@@ -73,7 +73,6 @@ int main() {
                 cout << "divion of "<<num1<<" and "<<num2 <<" is " << divide(num1, num2) << endl;
                 break;
             case 5:
-              
                 cout << "module of "<<num1<<" and "<<num2 <<" is " << module(num1,num2) << endl;
                 break;
             default:
